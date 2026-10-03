@@ -6,7 +6,7 @@ This project is part of the **CODSOFT DevOps Internship - Task 3**.
 
 The objective of this task is to deploy a custom static website using **Nginx Web Server** on **Ubuntu running through WSL 2 (Windows Subsystem for Linux)**.
 
-This project demonstrates basic web server installation, configuration, deployment, testing, and GitHub version control.
+This project demonstrates basic web server installation, configuration, deployment, testing, and GitHub version control .
 
 ---
 
